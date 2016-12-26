@@ -1529,10 +1529,10 @@
     "type" : "unknown",
     "notes" : "website down"
   },
-  "" : {
-    "language" : "",
-    "type" : "",
-    "notes" : ""
+  "thehardtimes.net" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : "Says they are satire in their about us"
   },
   "" : {
     "language" : "",
